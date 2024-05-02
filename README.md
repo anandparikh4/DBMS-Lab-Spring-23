@@ -1,5 +1,5 @@
 # Database Management Systems Laboratory
-This repository contains the lab assignments for the DBMS Laboratory course.
+This repository contains the lab assignments for the DBMS Laboratory(CS39202) course of Spring, 2023.
 
 
 ## Group Information
