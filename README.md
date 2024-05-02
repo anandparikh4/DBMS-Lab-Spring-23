@@ -1,8 +1,5 @@
 # Database Management Systems Laboratory
-This repository contains the lab assignments for the DBMS Laboratory course. It includes the following lab assignments:
-
-1. A-4: Hospital Management System **https://hospital2023.pythonanywhere.com/**
-2. A-5: Memory Management System
+This repository contains the lab assignments for the DBMS Laboratory course.
 
 
 ## Group Information
